@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://raw.githubusercontent.com/xeonhookforum/amalgam-fire-injector/refs/heads/main/img/fireinjector.png)
 <h1 align="center">Fire Injector <br> A open-source injector for cheat "Amalgam"</h1>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/t.me%2FXeonLeon-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Code-Open_source-green">
