@@ -1,0 +1,10 @@
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\amalgam_v1.exe.config
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\amalgam_v1.exe
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\amalgam_v1.pdb
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\amalgam_launcher.Properties.Resources.resources
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\amalgam_v1.exe
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\amalgam_v1.pdb

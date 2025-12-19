@@ -1,0 +1,10 @@
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\x64\Debug\fire_injector_amalgam.exe.config
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\x64\Debug\fire_injector_amalgam.exe
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\x64\Debug\fire_injector_amalgam.pdb
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\amalgam_fireinjector.Properties.Resources.resources
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\fire_injector_amalgam.exe
+C:\Users\Leon\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\x64\Debug\fire_injector_amalgam.pdb
